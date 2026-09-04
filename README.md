@@ -2,23 +2,34 @@
 
 
 
-# [Project Name] 🎯
+# [JUNGLE BOOK] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Dualsparkz]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Devika suresh] - [College of engineering kallooppara]
+- Member 2: [Krishna Nanda.P] - [College of engineering kallooppara]
+
 
 ### Project Description
-[2-3 lines about what your project does]
-
+[Jungle Book is a fun and innovative digital skill enhancement platform designed for animals. The platform allows animals to create profiles, explore different skill categories, participate in training activities, learn animal sounds through a Voice Lab, earn XP, level up, and compete with others.
+The project imagines a world where every animal gets the opportunity to discover its hidden talents and become the best version of itself.]
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Introducing Jungle Book—a completely unnecessary but absolutely essential skill-learning platform for animals!
+Animals can:
+Create their own Jungle ID.
+Select their species.
+Upload profile pictures.
+Explore different skills.
+Complete training sessions.
+Earn XP and level up.
+Learn and recognize different animal sounds.
+Participate in competitions.
+Become the ultimate skilled animal of the jungle.
+Because apparently, being naturally talented wasn't enough anymore.]
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
@@ -26,72 +37,65 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [JavaScript,HTML,CSS]
+[React.js,Vite,Tailwind ,CSS]
+[Lucide React]
+[Visual Studio Code,GitHub,npm,Vite]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[git clone [https://github.com/krishna-554]]
 
 # Run
-[commands]
+[npm run dev]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![<img width="1040" height="612" alt="image" src="https://github.com/user-attachments/assets/3af4f903-9167-4d84-a14f-192919d3e0f8" />
+](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![<img width="1057" height="626" alt="image" src="https://github.com/user-attachments/assets/28b6a724-e5c5-494a-8be1-e2226233bcc5" />
+](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![]<img width="1045" height="635" alt="image" src="https://github.com/user-attachments/assets/23de202d-742e-4165-a4ad-a9bc772b50a3" />
+(Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
+![<img width="1045" height="635" alt="image" src="https://github.com/user-attachments/assets/2c692501-a601-408d-8fb3-0723bb18292e" />
+](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://youtube.com/shorts/OfCjoCQ8c6Y?si=RrUHtb0_pZ_jIBH4]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Devika suresh]: [Project concept and idea development.
+UI/UX design.
+Frontend development.
+Animal profile and dashboard implementation.
+Project documentation,voice Lab development.
+Competition and additional feature development.
+Testing and integration..]
+- [Krishna Nanda.p]: [Training system development.
+XP and level progression system.
+Skills categorization.
+Testing and debugging,oice Lab development.
+Competition and additional feature development.
+Testing and integration.]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
